@@ -21,7 +21,7 @@ http api url:
 ## Orderbook:
 представляет собой список заявок на покупку и продажу.
 
-![](https://github.com/iss2g/market-data-display/blob/main/images/orderbook.png)
+![](https://github.com/iss2g/test-task/blob/main/images/orderbook.png)
 
 
 ### snapshot:
@@ -116,7 +116,7 @@ limit  | нет |
 представляет собой список последних совершенных сделок. 
 Агрегированные сделки составляются из сделок, совершенных одновременно по одной цене.
 
-![](https://github.com/iss2g/market-data-display/blob/main/images/trades.png)
+![](https://github.com/iss2g/test-task/blob/main/images/trades.png)
 
 ### snapshot:
 **запрос:**
@@ -208,7 +208,7 @@ limit |  нет
 ## Klines
 Данные, из которых формируется OHCVL график.
 
-![](https://github.com/iss2g/market-data-display/blob/main/images/ohlcv.png)
+![](https://github.com/iss2g/test-task/blob/main/images/ohlcv.png)
 
 
 ### snapshot:
