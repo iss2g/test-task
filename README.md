@@ -318,6 +318,6 @@ limit |  нет
 Для создания GUI была использована библиотека DearPyGui. Для получения данных с binance используется моя библиотека "binance_interface", 
 которую писал еще 2 года назад и по этой причине, прошу сильно не оценивать ее качество) Вместо этого предлагаю оценить код, который я предоставил в code-example, который новее. 
 
-![](https://github.com/iss2g/market-data-display/blob/main/images/app.png)
+![](https://github.com/iss2g/test-task/blob/main/images/app.png)
 
 
