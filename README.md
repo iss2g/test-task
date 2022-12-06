@@ -206,7 +206,7 @@ limit |  нет
   - добавлять в полученный список, сделки, полученные через websocket, Aggregate trade ID которых больше на 1 чем Aggregate trade ID последней сделки в списке. 
 
 ## Klines
-Данные, из которых формируется OHCVL график.
+Данные, из которых формируется OHLCV график.
 
 ![](https://github.com/iss2g/test-task/blob/main/images/ohlcv.png)
 
